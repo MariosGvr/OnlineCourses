@@ -1,0 +1,967 @@
+ID   OPSD_HUMAN              Reviewed;         348 AA.
+AC   P08100; Q16414; Q2M249;
+DT   01-AUG-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1988, sequence version 1.
+DT   13-FEB-2019, entry version 211.
+DE   RecName: Full=Rhodopsin;
+DE   AltName: Full=Opsin-2;
+GN   Name=RHO; Synonyms=OPN2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=6589631; DOI=10.1073/pnas.81.15.4851;
+RA   Nathans J., Hogness D.S.;
+RT   "Isolation and nucleotide sequence of the gene encoding human
+RT   rhodopsin.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 81:4851-4855(1984).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Suwa M., Sato T., Okouchi I., Arita M., Futami K., Matsumoto S.,
+RA   Tsutsumi S., Aburatani H., Asai K., Akiyama Y.;
+RT   "Genome-wide diskovery and analysis of human seven transmembrane helix
+RT   receptor genes.";
+RL   Submitted (JUL-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Retina;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H.,
+RA   Heubner D., Hoerlein A., Michel G., Wedler H., Koehrer K.,
+RA   Ottenwaelder B., Poustka A., Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-120.
+RX   PubMed=8566799; DOI=10.1016/0378-1119(95)00688-5;
+RA   Bennett J., Beller B., Sun D., Kariko K.;
+RT   "Sequence analysis of the 5.34-kb 5' flanking region of the human
+RT   rhodopsin-encoding gene.";
+RL   Gene 167:317-320(1995).
+RN   [6]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=25664179; DOI=10.1186/s13630-015-0013-1;
+RA   Chuang J.Z., Hsu Y.C., Sung C.H.;
+RT   "Ultrastructural visualization of trans-ciliary rhodopsin cargoes in
+RT   mammalian rods.";
+RL   Cilia 4:4-4(2015).
+RN   [7]
+RP   INTERACTION WITH GRK1 AND SAG, FUNCTION, AND MUTAGENESIS OF GLU-113
+RP   AND MET-257.
+RX   PubMed=28524165; DOI=10.1038/cr.2017.72;
+RA   He Y., Gao X., Goswami D., Hou L., Pal K., Yin Y., Zhao G.,
+RA   Ernst O.P., Griffin P., Melcher K., Xu H.E.;
+RT   "Molecular assembly of rhodopsin with G protein-coupled receptor
+RT   kinases.";
+RL   Cell Res. 27:728-747(2017).
+RN   [8] {ECO:0000244|PDB:4ZWJ}
+RP   X-RAY CRYSTALLOGRAPHY (3.30 ANGSTROMS) OF MUTANT GLN-113 AND TYR-257
+RP   IN COMPLEX WITH SAG, INTERACTION WITH SAG AND GNAT1, FUNCTION,
+RP   SUBCELLULAR LOCATION, MUTAGENESIS OF GLU-113 AND MET-257, TOPOLOGY,
+RP   AND DISULFIDE BONDS.
+RX   PubMed=26200343; DOI=10.1038/nature14656;
+RA   Kang Y., Zhou X.E., Gao X., He Y., Liu W., Ishchenko A., Barty A.,
+RA   White T.A., Yefanov O., Han G.W., Xu Q., de Waal P.W., Ke J.,
+RA   Tan M.H., Zhang C., Moeller A., West G.M., Pascal B.D., Van Eps N.,
+RA   Caro L.N., Vishnivetskiy S.A., Lee R.J., Suino-Powell K.M., Gu X.,
+RA   Pal K., Ma J., Zhi X., Boutet S., Williams G.J., Messerschmidt M.,
+RA   Gati C., Zatsepin N.A., Wang D., James D., Basu S., Roy-Chowdhury S.,
+RA   Conrad C.E., Coe J., Liu H., Lisova S., Kupitz C., Grotjohann I.,
+RA   Fromme R., Jiang Y., Tan M., Yang H., Li J., Wang M., Zheng Z., Li D.,
+RA   Howe N., Zhao Y., Standfuss J., Diederichs K., Dong Y., Potter C.S.,
+RA   Carragher B., Caffrey M., Jiang H., Chapman H.N., Spence J.C.,
+RA   Fromme P., Weierstall U., Ernst O.P., Katritch V., Gurevich V.V.,
+RA   Griffin P.R., Hubbell W.L., Stevens R.C., Cherezov V., Melcher K.,
+RA   Xu H.E.;
+RT   "Crystal structure of rhodopsin bound to arrestin by femtosecond X-ray
+RT   laser.";
+RL   Nature 523:561-567(2015).
+RN   [9] {ECO:0000244|PDB:5W0P}
+RP   X-RAY CRYSTALLOGRAPHY (3.01 ANGSTROMS) IN COMPLEX WITH SAG, FUNCTION,
+RP   TOPOLOGY, GLYCOSYLATION AT ASN-15, PHOSPHORYLATION AT SER-334; THR-336
+RP   AND SER-338, DISULFIDE BOND, AND MUTAGENESIS OF 336-THR--THR-340;
+RP   336-THR--SER-338 AND SER-343.
+RX   PubMed=28753425; DOI=10.1016/j.cell.2017.07.002;
+RA   Zhou X.E., He Y., de Waal P.W., Gao X., Kang Y., Van Eps N., Yin Y.,
+RA   Pal K., Goswami D., White T.A., Barty A., Latorraca N.R.,
+RA   Chapman H.N., Hubbell W.L., Dror R.O., Stevens R.C., Cherezov V.,
+RA   Gurevich V.V., Griffin P.R., Ernst O.P., Melcher K., Xu H.E.;
+RT   "Identification of Phosphorylation Codes for Arrestin Recruitment by G
+RT   Protein-Coupled Receptors.";
+RL   Cell 170:457-469(2017).
+RN   [10]
+RP   REVIEW ON RP4 VARIANTS.
+RX   PubMed=8401533; DOI=10.1002/humu.1380020403;
+RA   Al-Maghtheh M., Gregory C., Inglehearn C., Hardcastle A.,
+RA   Bhattacharya S.;
+RT   "Rhodopsin mutations in autosomal dominant retinitis pigmentosa.";
+RL   Hum. Mutat. 2:249-255(1993).
+RN   [11]
+RP   VARIANTS RP4.
+RX   PubMed=2239971;
+RA   Farrar G.J., Kenna P., Redmond R., McWilliam P., Bradley D.G.,
+RA   Humphries M.M., Sharp E.M., Inglehearn C.F., Bashir R., Jay M.,
+RA   Watty A., Ludwig M., Schinzel A., Samanns C., Gal A.,
+RA   Bhattacharya S.S., Humphries P.;
+RT   "Autosomal dominant retinitis pigmentosa: absence of the rhodopsin
+RT   proline-->histidine substitution (codon 23) in pedigrees from
+RT   Europe.";
+RL   Am. J. Hum. Genet. 47:941-945(1990).
+RN   [12]
+RP   VARIANT RP4 HIS-23.
+RX   PubMed=2137202; DOI=10.1038/343364a0;
+RA   Dryja T.P., McGee T.L., Reichei E., Hahn L.B., Cowley G.S.,
+RA   Yandell D.W., Sandberg M.A., Berson E.L.;
+RT   "A point mutation of the rhodopsin gene in one form of retinitis
+RT   pigmentosa.";
+RL   Nature 343:364-366(1990).
+RN   [13]
+RP   VARIANTS RP4 HIS-23; ARG-58; LEU-347 AND SER-347, AND FUNCTION.
+RX   PubMed=2215617; DOI=10.1056/NEJM199011083231903;
+RA   Dryja T.P., McGee T.L., Hahn L.B., Cowley G.S., Olsson J.E.,
+RA   Reichel E., Sandberg M.A., Berson E.L.;
+RT   "Mutations within the rhodopsin gene in patients with autosomal
+RT   dominant retinitis pigmentosa.";
+RL   N. Engl. J. Med. 323:1302-1307(1990).
+RN   [14]
+RP   VARIANT RP4 ILE-255 DEL.
+RX   PubMed=1985460;
+RA   Inglehearn C.F., Bashir R., Lester D.H., Jay M., Bird A.C.,
+RA   Bhattacharya S.S.;
+RT   "A 3-bp deletion in the rhodopsin gene in a family with autosomal
+RT   dominant retinitis pigmentosa.";
+RL   Am. J. Hum. Genet. 48:26-30(1991).
+RN   [15]
+RP   VARIANTS RP4 MET-17; HIS-23; ARG-58; SER-182 AND LEU-267.
+RX   PubMed=1897520;
+RA   Sheffield V.C., Fishman G.A., Beck J.S., Kimura A.E., Stone E.M.;
+RT   "Identification of novel rhodopsin mutations associated with retinitis
+RT   pigmentosa by GC-clamped denaturing gradient gel electrophoresis.";
+RL   Am. J. Hum. Genet. 49:699-706(1991).
+RN   [16]
+RP   VARIANT RP4 ARG-347.
+RX   PubMed=1840561;
+RA   Gal A., Artlich A., Ludwig M., Niemeyer G., Olek K., Schwinger E.,
+RA   Schinzel A.;
+RT   "Pro-347-Arg mutation of the rhodopsin gene in autosomal dominant
+RT   retinitis pigmentosa.";
+RL   Genomics 11:468-470(1991).
+RN   [17]
+RP   VARIANTS RP4.
+RX   PubMed=1862076; DOI=10.1073/pnas.88.15.6481;
+RA   Sung C.H., Davenport C.M., Hennessey J.C., Maumenee I.H.,
+RA   Jacobson S.G., Heckenlively J.R., Nowakowski R., Fishman G.,
+RA   Gouras P., Nathans J.;
+RT   "Rhodopsin mutations in autosomal dominant retinitis pigmentosa.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:6481-6485(1991).
+RN   [18]
+RP   VARIANTS RP4.
+RX   PubMed=1833777; DOI=10.1073/pnas.88.20.9370;
+RA   Dryja T.P., Hahn L.B., Cowley G.S., McGee T.L., Berson E.L.;
+RT   "Mutation spectrum of the rhodopsin gene among patients with autosomal
+RT   dominant retinitis pigmentosa.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:9370-9374(1991).
+RN   [19]
+RP   VARIANT RP4 ARG-207.
+RX   PubMed=1302614; DOI=10.1093/hmg/1.9.769;
+RA   Farrar G.J., Findlay J.B.C., Kumar-Singh R., Kenna P., Humphries M.M.,
+RA   Sharpe E., Humphries P.;
+RT   "Autosomal dominant retinitis pigmentosa: a novel mutation in the
+RT   rhodopsin gene in the original 3q linked family.";
+RL   Hum. Mol. Genet. 1:769-771(1992).
+RN   [20]
+RP   VARIANTS RP4 MET-17 AND LEU-347.
+RX   PubMed=1391967; DOI=10.1007/BF01899733;
+RA   Fujiki K., Hotta Y., Hayakawa M., Sakuma H., Shiono T., Noro M.,
+RA   Sakuma T., Tamai M., Hikiji K., Kawaguchi R., Hoshi A., Nakajima A.,
+RA   Kanai A.;
+RT   "Point mutations of rhodopsin gene found in Japanese families with
+RT   autosomal dominant retinitis pigmentosa (ADRP).";
+RL   Jpn. J. Hum. Genet. 37:125-132(1992).
+RN   [21]
+RP   VARIANTS RP4 ARG-106; GLY-135; SER-140; GLU-188 AND ARG-211, AND
+RP   VARIANTS ALA-51; ILE-104 AND MET-209.
+RX   PubMed=8317502;
+RA   Macke J.P., Davenport C.M., Jacobson S.G., Hennessey J.C.,
+RA   Gonzalez-Fernandez F., Conway B.P., Heckenlively J., Palmer R.,
+RA   Maumenee I.H., Sieving P., Gouras P., Good W., Nathans J.;
+RT   "Identification of novel rhodopsin mutations responsible for retinitis
+RT   pigmentosa: implications for the structure and function of
+RT   rhodopsin.";
+RL   Am. J. Hum. Genet. 53:80-89(1993).
+RN   [22]
+RP   VARIANT RP4 SER-15.
+RX   PubMed=8353500; DOI=10.1093/hmg/2.6.813;
+RA   Kranich H., Bartkowski S., Denton M.J., Krey S., Dickinson P.,
+RA   Duvigneau C., Gal A.;
+RT   "Autosomal dominant 'sector' retinitis pigmentosa due to a point
+RT   mutation predicting an Asn-15-Ser substitution of rhodopsin.";
+RL   Hum. Mol. Genet. 2:813-814(1993).
+RN   [23]
+RP   VARIANT CSNBAD1 GLU-292.
+RX   PubMed=8358437; DOI=10.1038/ng0793-280;
+RA   Dryja T.P., Berson E.L., Rao V.R., Oprian D.D.;
+RT   "Heterozygous missense mutation in the rhodopsin gene as a cause of
+RT   congenital stationary night blindness.";
+RL   Nat. Genet. 4:280-283(1993).
+RN   [24]
+RP   VARIANTS RP4.
+RX   PubMed=8088850; DOI=10.1006/geno.1994.1301;
+RA   Vaithinathan R., Berson E.L., Dryja T.P.;
+RT   "Further screening of the rhodopsin gene in patients with autosomal
+RT   dominant retinitis pigmentosa.";
+RL   Genomics 21:461-463(1994).
+RN   [25]
+RP   VARIANT RP4 THR-44.
+RX   PubMed=8076945; DOI=10.1007/BF00208284;
+RA   Reig C., Antich J., Gean E., Garcia-Sandoval B., Ramos C., Ayuso C.,
+RA   Carballo M.;
+RT   "Identification of a novel rhodopsin mutation (Met-44-Thr) in a
+RT   simplex case of retinitis pigmentosa.";
+RL   Hum. Genet. 94:283-286(1994).
+RN   [26]
+RP   VARIANTS RP4 PHE-110; PRO-131 AND VAL-164.
+RX   PubMed=7981701; DOI=10.1093/hmg/3.7.1203;
+RA   Fuchs S., Kranich H., Denton M.J., Zrenner E., Bhattacharya S.S.,
+RA   Humphries P., Gal A.;
+RT   "Three novel rhodopsin mutations (C110F, L131P, A164V) in patients
+RT   with autosomal dominant retinitis pigmentosa.";
+RL   Hum. Mol. Genet. 3:1203-1203(1994).
+RN   [27]
+RP   VARIANT RP4 GLN-171.
+RX   PubMed=7987326; DOI=10.1093/hmg/3.8.1421;
+RA   Antinolo G., Sanchez B., Borrego S., Rueda T., Chaparro P.,
+RA   Cabeza J.C.;
+RT   "Identification of a new mutation at codon 171 of rhodopsin gene
+RT   causing autosomal dominant retinitis pigmentosa.";
+RL   Hum. Mol. Genet. 3:1421-1421(1994).
+RN   [28]
+RP   VARIANTS RP4 PHE-127; PRO-131; ASN-178; ARG-267 AND ARG-297.
+RX   PubMed=7987331; DOI=10.1093/hmg/3.8.1433;
+RA   Souied E., Gerber S., Rozet J.-M., Bonneau D., Dufier J.-L., Ghazi I.,
+RA   Philip N., Soubrane G., Coscas G., Munnich A.;
+RT   "Five novel missense mutations of the rhodopsin gene in autosomal
+RT   dominant retinitis pigmentosa.";
+RL   Hum. Mol. Genet. 3:1433-1434(1994).
+RN   [29]
+RP   VARIANTS RP4 ARG-40 AND LYS-216.
+RX   PubMed=8081400; DOI=10.1002/humu.1380030417;
+RA   Al-Maghtheh M., Inglehearn C., Lunt P., Jay M., Bird A.,
+RA   Bhattacharya S.;
+RT   "Two new rhodopsin transversion mutations (L40R; M216K) in families
+RT   with autosomal dominant retinitis pigmentosa.";
+RL   Hum. Mutat. 3:409-410(1994).
+RN   [30]
+RP   VARIANT RP4 LEU-345.
+RX   PubMed=8045708;
+RA   Rosas D.J., Roman A.J., Weissbrod P., Macke J.P., Nathans J.;
+RT   "Autosomal dominant retinitis pigmentosa in a large family: a clinical
+RT   and molecular genetic study.";
+RL   Invest. Ophthalmol. Vis. Sci. 35:3134-3144(1994).
+RN   [31]
+RP   CHARACTERIZATION OF VARIANT CSNBAD1 ASP-90, AND FUNCTION.
+RX   PubMed=8107847; DOI=10.1038/367639a0;
+RA   Rao V.R., Cohen G.B., Oprian D.D.;
+RT   "Rhodopsin mutation G90D and a molecular mechanism for congenital
+RT   night blindness.";
+RL   Nature 367:639-642(1994).
+RN   [32]
+RP   VARIANT ARRP LYS-150.
+RX   PubMed=7987385; DOI=10.1038/ng0994-10;
+RA   Kumaramanickavel G., Maw M., Denton M.J., John S., Srikumari C.R.,
+RA   Orth U., Oehlmann R., Gal A.;
+RT   "Missense rhodopsin mutation in a family with recessive RP.";
+RL   Nat. Genet. 8:10-11(1994).
+RN   [33]
+RP   VARIANT RP4 ALA-347.
+RX   PubMed=7633434; DOI=10.1093/hmg/4.4.775;
+RA   Macke J.P., Hennessey J.C., Nathans J.;
+RT   "Rhodopsin mutation proline347-to-alanine in a family with autosomal
+RT   dominant retinitis pigmentosa indicates an important role for proline
+RT   at position 347.";
+RL   Hum. Mol. Genet. 4:775-776(1995).
+RN   [34]
+RP   VARIANT CSNBAD1 ASP-90, AND FUNCTION.
+RX   PubMed=7846071; DOI=10.1073/pnas.92.3.880;
+RA   Sieving P.A., Richards J.E., Naarendorp F., Bingham E.L., Scott K.,
+RA   Alpern M.;
+RT   "Dark-light: model for nightblindness from the human rhodopsin Gly-
+RT   90-->Asp mutation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92:880-884(1995).
+RN   [35]
+RP   VARIANT RP4 TRP-135.
+RX   PubMed=8554077; DOI=10.1016/S0002-9394(14)70530-6;
+RA   Souied E., Soubrane G., Benlian P., Coscas G.J., Gerber S.,
+RA   Munnich A., Kaplan J.;
+RT   "Retinitis punctata albescens associated with the Arg135Trp mutation
+RT   in the rhodopsin gene.";
+RL   Am. J. Ophthalmol. 121:19-25(1996).
+RN   [36]
+RP   VARIANT RP4 ARG-109.
+RX   PubMed=9452035;
+RA   Goliath R., Bardien S., September A., Martin R., Ramesar R.,
+RA   Greenberg J.;
+RT   "Rhodopsin mutation G109R in a family with autosomal dominant
+RT   retinitis pigmentosa.";
+RL   Hum. Mutat. Suppl. 1:S40-S41(1998).
+RN   [37]
+RP   VARIANT CSNBAD1 ILE-94.
+RX   PubMed=9888392;
+RX   DOI=10.1002/(SICI)1098-1004(1999)13:1<75::AID-HUMU9>3.0.CO;2-4;
+RA   Al-Jandal N., Farrar G.J., Kiang A.-S., Humphries M.M., Bannon N.,
+RA   Findlay J.B.C., Humphries P., Kenna P.F.;
+RT   "A novel mutation within the rhodopsin gene (Thr-94-Ile) causing
+RT   autosomal dominant congenital stationary night blindness.";
+RL   Hum. Mutat. 13:75-81(1999).
+RN   [38]
+RP   CHARACTERIZATION OF VARIANT RP4 HIS-23, FUNCTION, AND SUBCELLULAR
+RP   LOCATION.
+RX   PubMed=12566452; DOI=10.1074/jbc.M300087200;
+RA   Noorwez S.M., Kuksa V., Imanishi Y., Zhu L., Filipek S.,
+RA   Palczewski K., Kaushal S.;
+RT   "Pharmacological chaperone-mediated in vivo folding and stabilization
+RT   of the P23H-opsin mutant associated with autosomal dominant retinitis
+RT   pigmentosa.";
+RL   J. Biol. Chem. 278:14442-14450(2003).
+RN   [39]
+RP   CHARACTERIZATION OF VARIANT RP4 HIS-23, AND SUBCELLULAR LOCATION.
+RX   PubMed=19934218; DOI=10.1242/jcs.055228;
+RA   Kosmaoglou M., Kanuga N., Aguila M., Garriga P., Cheetham M.E.;
+RT   "A dual role for EDEM1 in the processing of rod opsin.";
+RL   J. Cell Sci. 122:4465-4472(2009).
+RN   [40]
+RP   VARIANT RP4 LYS-150.
+RX   PubMed=19960070;
+RA   Azam M., Khan M.I., Gal A., Hussain A., Shah S.T., Khan M.S.,
+RA   Sadeque A., Bokhari H., Collin R.W., Orth U., van Genderen M.M.,
+RA   den Hollander A.I., Cremers F.P., Qamar R.;
+RT   "A homozygous p.Glu150Lys mutation in the opsin gene of two Pakistani
+RT   families with autosomal recessive retinitis pigmentosa.";
+RL   Mol. Vis. 15:2526-2534(2009).
+RN   [41]
+RP   VARIANTS RP4 TRP-135; SER-180 AND ASN-214.
+RX   PubMed=22334370; DOI=10.1002/humu.22045;
+RA   Neveling K., Collin R.W., Gilissen C., van Huet R.A., Visser L.,
+RA   Kwint M.P., Gijsen S.J., Zonneveld M.N., Wieskamp N., de Ligt J.,
+RA   Siemiatkowska A.M., Hoefsloot L.H., Buckley M.F., Kellner U.,
+RA   Branham K.E., den Hollander A.I., Hoischen A., Hoyng C.,
+RA   Klevering B.J., van den Born L.I., Veltman J.A., Cremers F.P.,
+RA   Scheffer H.;
+RT   "Next-generation genetic testing for retinitis pigmentosa.";
+RL   Hum. Mutat. 33:963-972(2012).
+RN   [42]
+RP   VARIANT ILE-104.
+RX   PubMed=28837730; DOI=10.1167/iovs.16-20941;
+RA   Wang B., Liu Y., Chen S., Wu Y., Lin S., Duan Y., Zheng K., Zhang L.,
+RA   Gu X., Hong W., Shao H., Zeng X., Sun B., Duan S.;
+RT   "A novel potentially causative variant of NDUFAF7 revealed by mutation
+RT   screening in a chinese family with pathologic myopia.";
+RL   Invest. Ophthalmol. Vis. Sci. 58:4182-4192(2017).
+CC   -!- FUNCTION: Photoreceptor required for image-forming vision at low
+CC       light intensity (PubMed:8107847, PubMed:7846071). Required for
+CC       photoreceptor cell viability after birth (PubMed:2215617,
+CC       PubMed:12566452). Light-induced isomerization of the chromophore
+CC       11-cis-retinal to all-trans-retinal triggers a conformational
+CC       change that activates signaling via G-proteins (PubMed:8107847,
+CC       PubMed:28524165, PubMed:26200343, PubMed:28753425). Subsequent
+CC       receptor phosphorylation mediates displacement of the bound G-
+CC       protein alpha subunit by the arrestin SAG and terminates signaling
+CC       (PubMed:28524165, PubMed:26200343). {ECO:0000269|PubMed:12566452,
+CC       ECO:0000269|PubMed:2215617, ECO:0000269|PubMed:26200343,
+CC       ECO:0000269|PubMed:28753425, ECO:0000269|PubMed:7846071,
+CC       ECO:0000269|PubMed:8107847, ECO:0000305|PubMed:28524165}.
+CC   -!- SUBUNIT: Homodimer (By similarity). Interacts (phosphorylated
+CC       form) with SAG (PubMed:28524165, PubMed:26200343,
+CC       PubMed:28753425). Interacts with GNAT1 (PubMed:26200343).
+CC       Interacts with GNAT3. SAG and G-proteins compete for a common
+CC       binding site (By similarity). Interacts with GRK1
+CC       (PubMed:28524165). Interacts with PRCD; the interaction promotes
+CC       PRCD stability (By similarity). {ECO:0000250|UniProtKB:P02699,
+CC       ECO:0000250|UniProtKB:P15409, ECO:0000269|PubMed:26200343,
+CC       ECO:0000269|PubMed:28524165, ECO:0000269|PubMed:28753425}.
+CC   -!- INTERACTION:
+CC       O95405:ZFYVE9; NbExp=2; IntAct=EBI-1394177, EBI-296817;
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000269|PubMed:12566452,
+CC       ECO:0000269|PubMed:19934218, ECO:0000269|PubMed:25664179,
+CC       ECO:0000269|PubMed:26200343, ECO:0000269|PubMed:28753425}; Multi-
+CC       pass membrane protein {ECO:0000269|PubMed:19934218,
+CC       ECO:0000269|PubMed:26200343, ECO:0000269|PubMed:28753425}. Cell
+CC       projection, cilium, photoreceptor outer segment
+CC       {ECO:0000269|PubMed:25664179}. Note=Synthesized in the inner
+CC       segment (IS) of rod photoreceptor cells before vectorial transport
+CC       to disk membranes in the rod outer segment (OS) photosensory
+CC       cilia. {ECO:0000269|PubMed:25664179}.
+CC   -!- TISSUE SPECIFICITY: Rod shaped photoreceptor cells which mediate
+CC       vision in dim light.
+CC   -!- PTM: Phosphorylated on some or all of the serine and threonine
+CC       residues present in the C-terminal region (By similarity). After
+CC       activation by light, phosphorylated by GRK1 (in vitro)
+CC       (PubMed:28524165). {ECO:0000250|UniProtKB:P02699,
+CC       ECO:0000269|PubMed:28524165}.
+CC   -!- PTM: Contains one covalently linked retinal chromophore. Upon
+CC       light absorption, the covalently bound 11-cis-retinal is converted
+CC       to all-trans-retinal. After hydrolysis of the Schiff base and
+CC       release of the covalently bound all-trans-retinal, active
+CC       rhodopsin is regenerated by binding of a fresh molecule of 11-cis-
+CC       retinal(PubMed:12566452). {ECO:0000269|PubMed:12566452}.
+CC   -!- DISEASE: Retinitis pigmentosa 4 (RP4) [MIM:613731]: A retinal
+CC       dystrophy belonging to the group of pigmentary retinopathies.
+CC       Retinitis pigmentosa is characterized by retinal pigment deposits
+CC       visible on fundus examination and primary loss of rod
+CC       photoreceptor cells followed by secondary loss of cone
+CC       photoreceptors. Patients typically have night vision blindness and
+CC       loss of midperipheral visual field. As their condition progresses,
+CC       they lose their far peripheral visual field and eventually central
+CC       vision as well. {ECO:0000269|PubMed:12566452,
+CC       ECO:0000269|PubMed:1302614, ECO:0000269|PubMed:1391967,
+CC       ECO:0000269|PubMed:1833777, ECO:0000269|PubMed:1840561,
+CC       ECO:0000269|PubMed:1862076, ECO:0000269|PubMed:1897520,
+CC       ECO:0000269|PubMed:1985460, ECO:0000269|PubMed:19934218,
+CC       ECO:0000269|PubMed:19960070, ECO:0000269|PubMed:2137202,
+CC       ECO:0000269|PubMed:2215617, ECO:0000269|PubMed:22334370,
+CC       ECO:0000269|PubMed:2239971, ECO:0000269|PubMed:7633434,
+CC       ECO:0000269|PubMed:7981701, ECO:0000269|PubMed:7987326,
+CC       ECO:0000269|PubMed:7987331, ECO:0000269|PubMed:8045708,
+CC       ECO:0000269|PubMed:8076945, ECO:0000269|PubMed:8081400,
+CC       ECO:0000269|PubMed:8088850, ECO:0000269|PubMed:8317502,
+CC       ECO:0000269|PubMed:8353500, ECO:0000269|PubMed:8554077,
+CC       ECO:0000269|PubMed:9452035}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- DISEASE: Night blindness, congenital stationary, autosomal
+CC       dominant 1 (CSNBAD1) [MIM:610445]: A non-progressive retinal
+CC       disorder characterized by impaired night vision, often associated
+CC       with nystagmus and myopia. {ECO:0000269|PubMed:7846071,
+CC       ECO:0000269|PubMed:8107847, ECO:0000269|PubMed:8358437,
+CC       ECO:0000269|PubMed:9888392}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+CC       Opsin subfamily. {ECO:0000255|PROSITE-ProRule:PRU00521}.
+CC   -!- WEB RESOURCE: Name=Mutations of the RHO gene; Note=Retina
+CC       International's Scientific Newsletter;
+CC       URL="http://www.retina-international.org/files/sci-news/rhomut.htm";
+CC   -!- WEB RESOURCE: Name=Wikipedia; Note=Rhodopsin entry;
+CC       URL="https://en.wikipedia.org/wiki/Rhodopsin";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U49742; AAC31763.1; -; Genomic_DNA.
+DR   EMBL; AB065668; BAC05894.1; -; Genomic_DNA.
+DR   EMBL; BX537381; CAD97623.1; -; mRNA.
+DR   EMBL; BC112104; AAI12105.1; -; mRNA.
+DR   EMBL; BC112106; AAI12107.1; -; mRNA.
+DR   EMBL; U16824; AAA97436.1; -; Genomic_DNA.
+DR   EMBL; S81166; AAB35906.1; -; Genomic_DNA.
+DR   CCDS; CCDS3063.1; -.
+DR   PIR; A41200; OOHU.
+DR   RefSeq; NP_000530.1; NM_000539.3.
+DR   UniGene; Hs.247565; -.
+DR   PDB; 4ZWJ; X-ray; 3.30 A; A/B/C/D=1-348.
+DR   PDB; 5DGY; X-ray; 7.70 A; A/B/C/D=1-348.
+DR   PDB; 5W0P; X-ray; 3.01 A; A/B/C/D=1-348.
+DR   PDB; 6CMO; EM; 4.50 A; R=3-323.
+DR   PDBsum; 4ZWJ; -.
+DR   PDBsum; 5DGY; -.
+DR   PDBsum; 5W0P; -.
+DR   PDBsum; 6CMO; -.
+DR   ProteinModelPortal; P08100; -.
+DR   SMR; P08100; -.
+DR   BioGrid; 111942; 11.
+DR   IntAct; P08100; 4.
+DR   STRING; 9606.ENSP00000296271; -.
+DR   DrugBank; DB04233; (Hydroxyethyloxy)Tri(Ethyloxy)Octane.
+DR   DrugBank; DB03152; B-2-Octylglucoside.
+DR   DrugBank; DB01159; Halothane.
+DR   DrugBank; DB04450; Heptyl 1-Thiohexopyranoside.
+DR   DrugBank; DB03381; Hexadecanal.
+DR   DrugBank; DB04147; Lauryl Dimethylamine-N-Oxide.
+DR   DrugBank; DB01646; N-Acetylmethionine.
+DR   DrugBank; DB03796; Palmitic Acid.
+DR   DrugBank; DB04522; Phosphonoserine.
+DR   DrugBank; DB02482; Phosphonothreonine.
+DR   TCDB; 9.A.14.1.2; the g-protein-coupled receptor (gpcr) family.
+DR   GlyConnect; 525; -.
+DR   iPTMnet; P08100; -.
+DR   PhosphoSitePlus; P08100; -.
+DR   SwissPalm; P08100; -.
+DR   UniCarbKB; P08100; -.
+DR   BioMuta; RHO; -.
+DR   DMDM; 129207; -.
+DR   PaxDb; P08100; -.
+DR   PeptideAtlas; P08100; -.
+DR   PRIDE; P08100; -.
+DR   ProteomicsDB; 52066; -.
+DR   DNASU; 6010; -.
+DR   Ensembl; ENST00000296271; ENSP00000296271; ENSG00000163914.
+DR   GeneID; 6010; -.
+DR   KEGG; hsa:6010; -.
+DR   UCSC; uc003emt.4; human.
+DR   CTD; 6010; -.
+DR   DisGeNET; 6010; -.
+DR   EuPathDB; HostDB:ENSG00000163914.4; -.
+DR   GeneCards; RHO; -.
+DR   GeneReviews; RHO; -.
+DR   HGNC; HGNC:10012; RHO.
+DR   HPA; CAB022486; -.
+DR   HPA; CAB034887; -.
+DR   HPA; CAB034888; -.
+DR   HPA; HPA013440; -.
+DR   MalaCards; RHO; -.
+DR   MIM; 180380; gene.
+DR   MIM; 610445; phenotype.
+DR   MIM; 613731; phenotype.
+DR   neXtProt; NX_P08100; -.
+DR   OpenTargets; ENSG00000163914; -.
+DR   Orphanet; 215; Congenital stationary night blindness.
+DR   Orphanet; 791; Retinitis pigmentosa.
+DR   Orphanet; 52427; Retinitis punctata albescens.
+DR   PharmGKB; PA34390; -.
+DR   eggNOG; KOG3656; Eukaryota.
+DR   eggNOG; ENOG410XRW9; LUCA.
+DR   GeneTree; ENSGT00940000154379; -.
+DR   HOGENOM; HOG000253932; -.
+DR   HOVERGEN; HBG107442; -.
+DR   InParanoid; P08100; -.
+DR   KO; K04250; -.
+DR   OMA; LAAYMFM; -.
+DR   OrthoDB; 541116at2759; -.
+DR   PhylomeDB; P08100; -.
+DR   TreeFam; TF324998; -.
+DR   Reactome; R-HSA-2453902; The canonical retinoid cycle in rods (twilight vision).
+DR   Reactome; R-HSA-2485179; Activation of the phototransduction cascade.
+DR   Reactome; R-HSA-2514859; Inactivation, recovery and regulation of the phototransduction cascade.
+DR   Reactome; R-HSA-418594; G alpha (i) signalling events.
+DR   Reactome; R-HSA-419771; Opsins.
+DR   Reactome; R-HSA-5620916; VxPx cargo-targeting to cilium.
+DR   SignaLink; P08100; -.
+DR   SIGNOR; P08100; -.
+DR   ChiTaRS; RHO; human.
+DR   GeneWiki; Rhodopsin; -.
+DR   GenomeRNAi; 6010; -.
+DR   PRO; PR:P08100; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   Bgee; ENSG00000163914; Expressed in 87 organ(s), highest expression level in retina.
+DR   Genevisible; P08100; HS.
+DR   GO; GO:0005911; C:cell-cell junction; IEA:Ensembl.
+DR   GO; GO:0060170; C:ciliary membrane; TAS:Reactome.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:MGI.
+DR   GO; GO:0000139; C:Golgi membrane; TAS:Reactome.
+DR   GO; GO:0030660; C:Golgi-associated vesicle membrane; TAS:Reactome.
+DR   GO; GO:0016021; C:integral component of membrane; ISS:UniProtKB.
+DR   GO; GO:0005887; C:integral component of plasma membrane; IBA:GO_Central.
+DR   GO; GO:0097381; C:photoreceptor disc membrane; IDA:UniProtKB.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IDA:MGI.
+DR   GO; GO:0060342; C:photoreceptor inner segment membrane; IDA:UniProtKB.
+DR   GO; GO:0001750; C:photoreceptor outer segment; IDA:MGI.
+DR   GO; GO:0042622; C:photoreceptor outer segment membrane; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:LIFEdb.
+DR   GO; GO:0005502; F:11-cis retinal binding; ISS:UniProtKB.
+DR   GO; GO:0008020; F:G protein-coupled photoreceptor activity; ISS:UniProtKB.
+DR   GO; GO:0004930; F:G protein-coupled receptor activity; TAS:ProtInc.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016038; P:absorption of visible light; ISS:AgBase.
+DR   GO; GO:0071482; P:cellular response to light stimulus; IBA:GO_Central.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0045494; P:photoreceptor cell maintenance; IEA:Ensembl.
+DR   GO; GO:0007602; P:phototransduction; IBA:GO_Central.
+DR   GO; GO:0007603; P:phototransduction, visible light; TAS:ProtInc.
+DR   GO; GO:0006468; P:protein phosphorylation; IEA:Ensembl.
+DR   GO; GO:0018298; P:protein-chromophore linkage; IEA:UniProtKB-KW.
+DR   GO; GO:0022400; P:regulation of rhodopsin mediated signaling pathway; TAS:Reactome.
+DR   GO; GO:0060041; P:retina development in camera-type eye; IEA:Ensembl.
+DR   GO; GO:0001523; P:retinoid metabolic process; TAS:Reactome.
+DR   GO; GO:0016056; P:rhodopsin mediated signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0007601; P:visual perception; IEA:UniProtKB-KW.
+DR   InterPro; IPR000276; GPCR_Rhodpsn.
+DR   InterPro; IPR017452; GPCR_Rhodpsn_7TM.
+DR   InterPro; IPR001760; Opsin.
+DR   InterPro; IPR027430; Retinal_BS.
+DR   InterPro; IPR000732; Rhodopsin.
+DR   InterPro; IPR019477; Rhodopsin_N.
+DR   Pfam; PF00001; 7tm_1; 1.
+DR   Pfam; PF10413; Rhodopsin_N; 1.
+DR   PRINTS; PR00237; GPCRRHODOPSN.
+DR   PRINTS; PR00238; OPSIN.
+DR   PRINTS; PR00579; RHODOPSIN.
+DR   SMART; SM01381; 7TM_GPCR_Srsx; 1.
+DR   PROSITE; PS00237; G_PROTEIN_RECEP_F1_1; 1.
+DR   PROSITE; PS50262; G_PROTEIN_RECEP_F1_2; 1.
+DR   PROSITE; PS00238; OPSIN; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Cell projection; Chromophore;
+KW   Complete proteome; Congenital stationary night blindness;
+KW   Disease mutation; Disulfide bond; G-protein coupled receptor;
+KW   Glycoprotein; Lipoprotein; Membrane; Metal-binding; Palmitate;
+KW   Phosphoprotein; Photoreceptor protein; Polymorphism; Receptor;
+KW   Reference proteome; Retinal protein; Retinitis pigmentosa;
+KW   Sensory transduction; Transducer; Transmembrane; Transmembrane helix;
+KW   Vision; Zinc.
+FT   CHAIN         1    348       Rhodopsin.
+FT                                /FTId=PRO_0000197677.
+FT   TOPO_DOM      1     36       Extracellular.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TRANSMEM     37     61       Helical; Name=1.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TOPO_DOM     62     73       Cytoplasmic.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TRANSMEM     74     96       Helical; Name=2.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TOPO_DOM     97    110       Extracellular.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TRANSMEM    111    133       Helical; Name=3.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TOPO_DOM    134    152       Cytoplasmic.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TRANSMEM    153    173       Helical; Name=4.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TOPO_DOM    174    202       Extracellular.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TRANSMEM    203    224       Helical; Name=5.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TOPO_DOM    225    252       Cytoplasmic.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TRANSMEM    253    274       Helical; Name=6.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TOPO_DOM    275    284       Extracellular.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TRANSMEM    285    309       Helical; Name=7.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   TOPO_DOM    310    348       Cytoplasmic.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   REGION      330    348       Interaction with SAG.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   MOTIF       134    136       'Ionic lock' involved in activated form
+FT                                stabilization.
+FT                                {ECO:0000305|PubMed:26200343}.
+FT   METAL       201    201       Zinc. {ECO:0000250|UniProtKB:P02699}.
+FT   METAL       279    279       Zinc. {ECO:0000250|UniProtKB:P02699}.
+FT   SITE        113    113       Plays an important role in the
+FT                                conformation switch to the active
+FT                                conformation.
+FT                                {ECO:0000269|PubMed:26200343}.
+FT   MOD_RES       1      1       N-acetylmethionine.
+FT                                {ECO:0000250|UniProtKB:P02699}.
+FT   MOD_RES     296    296       N6-(retinylidene)lysine.
+FT                                {ECO:0000250|UniProtKB:P02699}.
+FT   MOD_RES     334    334       Phosphoserine.
+FT                                {ECO:0000269|PubMed:28753425}.
+FT   MOD_RES     336    336       Phosphothreonine.
+FT                                {ECO:0000269|PubMed:28753425}.
+FT   MOD_RES     338    338       Phosphoserine.
+FT                                {ECO:0000269|PubMed:28753425}.
+FT   MOD_RES     340    340       Phosphothreonine.
+FT                                {ECO:0000250|UniProtKB:P02699}.
+FT   MOD_RES     342    342       Phosphothreonine.
+FT                                {ECO:0000250|UniProtKB:P02699}.
+FT   MOD_RES     343    343       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P02699}.
+FT   LIPID       322    322       S-palmitoyl cysteine.
+FT                                {ECO:0000250|UniProtKB:P02699}.
+FT   LIPID       323    323       S-palmitoyl cysteine.
+FT                                {ECO:0000250|UniProtKB:P02699}.
+FT   CARBOHYD      2      2       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000250|UniProtKB:P02699}.
+FT   CARBOHYD     15     15       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000269|PubMed:28753425}.
+FT   DISULFID    110    187       {ECO:0000255|PROSITE-ProRule:PRU00521,
+FT                                ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28753425}.
+FT   VARIANT       4      4       T -> K (in RP4).
+FT                                /FTId=VAR_004765.
+FT   VARIANT      15     15       N -> S (in RP4; dbSNP:rs104893786).
+FT                                {ECO:0000269|PubMed:8353500}.
+FT                                /FTId=VAR_004766.
+FT   VARIANT      17     17       T -> M (in RP4; dbSNP:rs104893769).
+FT                                {ECO:0000269|PubMed:1391967,
+FT                                ECO:0000269|PubMed:1897520}.
+FT                                /FTId=VAR_004767.
+FT   VARIANT      23     23       P -> H (in RP4; most common variant;
+FT                                impairs protein folding; leads to
+FT                                interaction with EDEM1 followed by
+FT                                degradation by the ERAD system;
+FT                                dbSNP:rs104893768).
+FT                                {ECO:0000269|PubMed:12566452,
+FT                                ECO:0000269|PubMed:1897520,
+FT                                ECO:0000269|PubMed:19934218,
+FT                                ECO:0000269|PubMed:2137202,
+FT                                ECO:0000269|PubMed:2215617}.
+FT                                /FTId=VAR_004768.
+FT   VARIANT      23     23       P -> L (in RP4).
+FT                                /FTId=VAR_004769.
+FT   VARIANT      28     28       Q -> H (in RP4).
+FT                                /FTId=VAR_004770.
+FT   VARIANT      40     40       L -> R (in RP4).
+FT                                {ECO:0000269|PubMed:8081400}.
+FT                                /FTId=VAR_004771.
+FT   VARIANT      44     44       M -> T (in RP4; dbSNP:rs774336493).
+FT                                {ECO:0000269|PubMed:8076945}.
+FT                                /FTId=VAR_004772.
+FT   VARIANT      45     45       F -> L (in RP4; dbSNP:rs104893770).
+FT                                /FTId=VAR_004773.
+FT   VARIANT      46     46       L -> R (in RP4).
+FT                                /FTId=VAR_004774.
+FT   VARIANT      51     51       G -> A (in dbSNP:rs149079952).
+FT                                {ECO:0000269|PubMed:8317502}.
+FT                                /FTId=VAR_004775.
+FT   VARIANT      51     51       G -> R (in RP4; dbSNP:rs104893792).
+FT                                /FTId=VAR_004776.
+FT   VARIANT      51     51       G -> V (in RP4).
+FT                                /FTId=VAR_004777.
+FT   VARIANT      53     53       P -> R (in RP4; dbSNP:rs28933395).
+FT                                /FTId=VAR_004778.
+FT   VARIANT      58     58       T -> R (in RP4; dbSNP:rs28933394).
+FT                                {ECO:0000269|PubMed:1897520,
+FT                                ECO:0000269|PubMed:2215617}.
+FT                                /FTId=VAR_004779.
+FT   VARIANT      68     71       Missing (in RP4).
+FT                                /FTId=VAR_004780.
+FT   VARIANT      87     87       V -> D (in RP4; dbSNP:rs104893771).
+FT                                /FTId=VAR_004781.
+FT   VARIANT      89     89       G -> D (in RP4; dbSNP:rs104893772).
+FT                                /FTId=VAR_004782.
+FT   VARIANT      90     90       G -> D (in CSNBAD1; constitutive activity
+FT                                in the absence of bound retinal;
+FT                                dbSNP:rs104893790).
+FT                                {ECO:0000269|PubMed:7846071,
+FT                                ECO:0000269|PubMed:8107847}.
+FT                                /FTId=VAR_004783.
+FT   VARIANT      94     94       T -> I (in CSNBAD1; dbSNP:rs104893796).
+FT                                {ECO:0000269|PubMed:9888392}.
+FT                                /FTId=VAR_004784.
+FT   VARIANT     104    104       V -> I (found in patients with pathologic
+FT                                myopia; unknown pathological
+FT                                significance; dbSNP:rs144317206).
+FT                                {ECO:0000269|PubMed:28837730,
+FT                                ECO:0000269|PubMed:8317502}.
+FT                                /FTId=VAR_004785.
+FT   VARIANT     106    106       G -> R (in RP4; dbSNP:rs104893773).
+FT                                {ECO:0000269|PubMed:8317502}.
+FT                                /FTId=VAR_004786.
+FT   VARIANT     106    106       G -> W (in RP4; dbSNP:rs104893773).
+FT                                /FTId=VAR_004787.
+FT   VARIANT     109    109       G -> R (in RP4; dbSNP:rs1415160298).
+FT                                {ECO:0000269|PubMed:9452035}.
+FT                                /FTId=VAR_004788.
+FT   VARIANT     110    110       C -> F (in RP4).
+FT                                {ECO:0000269|PubMed:7981701}.
+FT                                /FTId=VAR_004789.
+FT   VARIANT     110    110       C -> Y (in RP4; dbSNP:rs104893787).
+FT                                /FTId=VAR_004790.
+FT   VARIANT     114    114       G -> D (in RP4; dbSNP:rs104893788).
+FT                                /FTId=VAR_004791.
+FT   VARIANT     125    125       L -> R (in RP4).
+FT                                /FTId=VAR_004792.
+FT   VARIANT     127    127       S -> F (in RP4).
+FT                                {ECO:0000269|PubMed:7987331}.
+FT                                /FTId=VAR_004793.
+FT   VARIANT     131    131       L -> P (in RP4).
+FT                                {ECO:0000269|PubMed:7981701,
+FT                                ECO:0000269|PubMed:7987331}.
+FT                                /FTId=VAR_004794.
+FT   VARIANT     135    135       R -> G (in RP4).
+FT                                {ECO:0000269|PubMed:8317502}.
+FT                                /FTId=VAR_004795.
+FT   VARIANT     135    135       R -> L (in RP4; dbSNP:rs104893774).
+FT                                /FTId=VAR_004796.
+FT   VARIANT     135    135       R -> W (in RP4; dbSNP:rs104893775).
+FT                                {ECO:0000269|PubMed:22334370,
+FT                                ECO:0000269|PubMed:8554077}.
+FT                                /FTId=VAR_004797.
+FT   VARIANT     140    140       C -> S (in RP4).
+FT                                {ECO:0000269|PubMed:8317502}.
+FT                                /FTId=VAR_004798.
+FT   VARIANT     150    150       E -> K (in RP4; autosomal recessive;
+FT                                dbSNP:rs104893791).
+FT                                {ECO:0000269|PubMed:19960070,
+FT                                ECO:0000269|PubMed:7987385}.
+FT                                /FTId=VAR_004799.
+FT   VARIANT     164    164       A -> E (in RP4; dbSNP:rs104893793).
+FT                                /FTId=VAR_004800.
+FT   VARIANT     164    164       A -> V (in RP4; dbSNP:rs104893793).
+FT                                {ECO:0000269|PubMed:7981701}.
+FT                                /FTId=VAR_004801.
+FT   VARIANT     167    167       C -> R (in RP4).
+FT                                /FTId=VAR_004802.
+FT   VARIANT     171    171       P -> L (in RP4).
+FT                                /FTId=VAR_004803.
+FT   VARIANT     171    171       P -> Q (in RP4).
+FT                                {ECO:0000269|PubMed:7987326}.
+FT                                /FTId=VAR_004804.
+FT   VARIANT     171    171       P -> S (in RP4; dbSNP:rs104893794).
+FT                                /FTId=VAR_004805.
+FT   VARIANT     178    178       Y -> C (in RP4; dbSNP:rs104893776).
+FT                                /FTId=VAR_004806.
+FT   VARIANT     178    178       Y -> N (in RP4).
+FT                                {ECO:0000269|PubMed:7987331}.
+FT                                /FTId=VAR_004807.
+FT   VARIANT     180    180       P -> S (in RP4).
+FT                                {ECO:0000269|PubMed:22334370}.
+FT                                /FTId=VAR_068359.
+FT   VARIANT     181    181       E -> K (in RP4; dbSNP:rs775557680).
+FT                                /FTId=VAR_004808.
+FT   VARIANT     182    182       G -> S (in RP4; dbSNP:rs104893780).
+FT                                {ECO:0000269|PubMed:1897520}.
+FT                                /FTId=VAR_004809.
+FT   VARIANT     186    186       S -> P (in RP4).
+FT                                /FTId=VAR_004810.
+FT   VARIANT     188    188       G -> E (in RP4; dbSNP:rs1424131846).
+FT                                {ECO:0000269|PubMed:8317502}.
+FT                                /FTId=VAR_004811.
+FT   VARIANT     188    188       G -> R (in RP4; dbSNP:rs527236100).
+FT                                /FTId=VAR_004812.
+FT   VARIANT     190    190       D -> G (in RP4; dbSNP:rs104893777).
+FT                                /FTId=VAR_004814.
+FT   VARIANT     190    190       D -> N (in RP4; dbSNP:rs104893779).
+FT                                /FTId=VAR_004813.
+FT   VARIANT     190    190       D -> Y (in RP4; dbSNP:rs104893779).
+FT                                /FTId=VAR_004815.
+FT   VARIANT     207    207       M -> R (in RP4; dbSNP:rs104893782).
+FT                                {ECO:0000269|PubMed:1302614}.
+FT                                /FTId=VAR_004816.
+FT   VARIANT     209    209       V -> M (found in a patient with retinitis
+FT                                pigmentosa; unknown pathological
+FT                                significance; dbSNP:rs567288669).
+FT                                {ECO:0000269|PubMed:8317502}.
+FT                                /FTId=VAR_004817.
+FT   VARIANT     211    211       H -> P (in RP4; dbSNP:rs28933993).
+FT                                /FTId=VAR_004818.
+FT   VARIANT     211    211       H -> R (in RP4).
+FT                                {ECO:0000269|PubMed:8317502}.
+FT                                /FTId=VAR_004819.
+FT   VARIANT     214    214       I -> N (in RP4).
+FT                                {ECO:0000269|PubMed:22334370}.
+FT                                /FTId=VAR_068360.
+FT   VARIANT     216    216       M -> K (in RP4).
+FT                                {ECO:0000269|PubMed:8081400}.
+FT                                /FTId=VAR_004820.
+FT   VARIANT     220    220       F -> C (in RP4; dbSNP:rs766161322).
+FT                                /FTId=VAR_004821.
+FT   VARIANT     222    222       C -> R (in RP4).
+FT                                /FTId=VAR_004822.
+FT   VARIANT     255    255       Missing (in RP4).
+FT                                {ECO:0000269|PubMed:1985460}.
+FT                                /FTId=VAR_004823.
+FT   VARIANT     264    264       Missing (in RP4).
+FT                                /FTId=VAR_004824.
+FT   VARIANT     267    267       P -> L (in RP4; dbSNP:rs104893781).
+FT                                {ECO:0000269|PubMed:1897520}.
+FT                                /FTId=VAR_004825.
+FT   VARIANT     267    267       P -> R (in RP4).
+FT                                {ECO:0000269|PubMed:7987331}.
+FT                                /FTId=VAR_004826.
+FT   VARIANT     292    292       A -> E (in CSNBAD1; dbSNP:rs104893789).
+FT                                {ECO:0000269|PubMed:8358437}.
+FT                                /FTId=VAR_004827.
+FT   VARIANT     296    296       K -> E (in RP4; dbSNP:rs29001653).
+FT                                /FTId=VAR_004828.
+FT   VARIANT     297    297       S -> R (in RP4).
+FT                                {ECO:0000269|PubMed:7987331}.
+FT                                /FTId=VAR_004829.
+FT   VARIANT     342    342       T -> M (in RP4; dbSNP:rs183318466).
+FT                                /FTId=VAR_004830.
+FT   VARIANT     345    345       V -> L (in RP4; dbSNP:rs104893795).
+FT                                {ECO:0000269|PubMed:8045708}.
+FT                                /FTId=VAR_004831.
+FT   VARIANT     345    345       V -> M (in RP4; dbSNP:rs104893795).
+FT                                /FTId=VAR_004832.
+FT   VARIANT     347    347       P -> A (in RP4).
+FT                                {ECO:0000269|PubMed:7633434}.
+FT                                /FTId=VAR_004833.
+FT   VARIANT     347    347       P -> L (in RP4; common variant;
+FT                                dbSNP:rs29001566).
+FT                                {ECO:0000269|PubMed:1391967,
+FT                                ECO:0000269|PubMed:2215617}.
+FT                                /FTId=VAR_004834.
+FT   VARIANT     347    347       P -> Q (in RP4; dbSNP:rs29001566).
+FT                                /FTId=VAR_004835.
+FT   VARIANT     347    347       P -> R (in RP4; dbSNP:rs29001566).
+FT                                {ECO:0000269|PubMed:1840561}.
+FT                                /FTId=VAR_004836.
+FT   VARIANT     347    347       P -> S (in RP4; dbSNP:rs29001637).
+FT                                {ECO:0000269|PubMed:2215617}.
+FT                                /FTId=VAR_004837.
+FT   MUTAGEN     113    113       E->Q: Induces a conformation change that
+FT                                promotes interaction with GRK1 and SAG;
+FT                                when associated with Y-257.
+FT                                {ECO:0000269|PubMed:26200343}.
+FT   MUTAGEN     257    257       M->Y: Induces a conformation change that
+FT                                promotes interaction with GRK1 and SAG;
+FT                                when associated with Q-113.
+FT                                {ECO:0000269|PubMed:26200343,
+FT                                ECO:0000269|PubMed:28524165}.
+FT   MUTAGEN     336    340       TVSKT->AVAKA: Loss of phosphorylation
+FT                                sites and decreased interaction with SAG.
+FT                                {ECO:0000269|PubMed:28753425}.
+FT   MUTAGEN     336    338       TVS->AVA: Loss of phosphorylation sites
+FT                                and decreased interaction with SAG; when
+FT                                associated with A-343.
+FT                                {ECO:0000269|PubMed:28753425}.
+FT   MUTAGEN     343    343       S->A: Loss of phosphorylation sites and
+FT                                decreased interaction with SAG; when
+FT                                associated with 336-A--A-338.
+FT                                {ECO:0000269|PubMed:28753425}.
+FT   STRAND        2      5       {ECO:0000244|PDB:5W0P}.
+FT   STRAND       10     13       {ECO:0000244|PDB:5W0P}.
+FT   STRAND       16     18       {ECO:0000244|PDB:5W0P}.
+FT   TURN         23     25       {ECO:0000244|PDB:5W0P}.
+FT   TURN         29     31       {ECO:0000244|PDB:4ZWJ}.
+FT   HELIX        35     64       {ECO:0000244|PDB:5W0P}.
+FT   HELIX        66     68       {ECO:0000244|PDB:5W0P}.
+FT   TURN         71     73       {ECO:0000244|PDB:5W0P}.
+FT   HELIX        74     88       {ECO:0000244|PDB:5W0P}.
+FT   HELIX        90    100       {ECO:0000244|PDB:5W0P}.
+FT   HELIX       106    140       {ECO:0000244|PDB:5W0P}.
+FT   HELIX       143    147       {ECO:0000244|PDB:5W0P}.
+FT   HELIX       150    168       {ECO:0000244|PDB:5W0P}.
+FT   HELIX       170    173       {ECO:0000244|PDB:5W0P}.
+FT   STRAND      174    176       {ECO:0000244|PDB:4ZWJ}.
+FT   STRAND      178    181       {ECO:0000244|PDB:5W0P}.
+FT   TURN        182    185       {ECO:0000244|PDB:5W0P}.
+FT   STRAND      186    189       {ECO:0000244|PDB:5W0P}.
+FT   STRAND      191    193       {ECO:0000244|PDB:5W0P}.
+FT   TURN        196    199       {ECO:0000244|PDB:5W0P}.
+FT   HELIX       200    209       {ECO:0000244|PDB:5W0P}.
+FT   TURN        210    212       {ECO:0000244|PDB:5W0P}.
+FT   HELIX       213    236       {ECO:0000244|PDB:5W0P}.
+FT   HELIX       241    277       {ECO:0000244|PDB:5W0P}.
+FT   HELIX       285    306       {ECO:0000244|PDB:5W0P}.
+FT   TURN        307    309       {ECO:0000244|PDB:5W0P}.
+FT   HELIX       311    321       {ECO:0000244|PDB:5W0P}.
+FT   TURN        322    324       {ECO:0000244|PDB:4ZWJ}.
+FT   TURN        331    333       {ECO:0000244|PDB:5W0P}.
+FT   STRAND      339    341       {ECO:0000244|PDB:5W0P}.
+SQ   SEQUENCE   348 AA;  38893 MW;  6F4F6FCBA34265B2 CRC64;
+     MNGTEGPNFY VPFSNATGVV RSPFEYPQYY LAEPWQFSML AAYMFLLIVL GFPINFLTLY
+     VTVQHKKLRT PLNYILLNLA VADLFMVLGG FTSTLYTSLH GYFVFGPTGC NLEGFFATLG
+     GEIALWSLVV LAIERYVVVC KPMSNFRFGE NHAIMGVAFT WVMALACAAP PLAGWSRYIP
+     EGLQCSCGID YYTLKPEVNN ESFVIYMFVV HFTIPMIIIF FCYGQLVFTV KEAAAQQQES
+     ATTQKAEKEV TRMVIIMVIA FLICWVPYAS VAFYIFTHQG SNFGPIFMTI PAFFAKSAAI
+     YNPVIYIMMN KQFRNCMLTT ICCGKNPLGD DEASATVSKT ETSQVAPA
+//
