@@ -2,3 +2,5 @@
 
 1. Learning R
 2. ROSALIND
+3. Introduction to Python Programming - edx
+4. 
